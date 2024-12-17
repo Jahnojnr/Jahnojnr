@@ -1,6 +1,6 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*o1VQUypTIv6q5eIKsWPOuQ.gif)
 <h1 align="center">Hi 👋, I'm Jahno Paul</h1>
-<h3 align="center">A passionate Full-stack developer from Nigeria</h3>
+<h3 align="center">A passionate Full-stack developer </h3>
 <img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahnojnr&label=Profile%20views&color=0e75b6&style=flat" alt="jahnojnr" /> </p>
