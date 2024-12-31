@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/jahnopaul" target="blank"><img src="https://img.shields.io/twitter/follow/jahnopaul?logo=twitter&style=for-the-badge" alt="jahnopaul" /></a> </p>
 
-- 🔭 I’m currently working on [heriglob.com](https://heritageenergyglobal.com/https://heritageenergyglobal.com/)
+- 🔭 I’m currently working on [Mitaschool.com](https://mitaschool.com/)
 
 - 🌱 I’m currently learning **C++**
 
