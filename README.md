@@ -136,3 +136,6 @@
 
 [![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=312tzu7o7ssoz7uitpqv26wec3xa&count=5)](https://open.spotify.com/user/312tzu7o7ssoz7uitpqv26wec3xa)
 
+[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/yourrepository&type=Date)](https://star-history.com/#yourusername/yourrepository&Date)
+
+
