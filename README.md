@@ -132,10 +132,7 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jahnojnr&" alt="jahnojnr" />
 </p>
 
-## 🎵 Recently Played on Spotify
+## Star History
 
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=312tzu7o7ssoz7uitpqv26wec3xa&count=5)](https://open.spotify.com/user/312tzu7o7ssoz7uitpqv26wec3xa)
-
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/yourrepository&type=Date)](https://star-history.com/#yourusername/yourrepository&Date)
-
+[![Star History Chart](https://api.star-history.com/svg?repos=jahnojnr/jahnojnr,jahnojnr/Vitour---Travel-Tour-Booking-HTML-Template&type=Timeline)](https://star-history.com/#jahnojnr/jahnojnr&jahnojnr/Vitour---Travel-Tour-Booking-HTML-Template&Timeline)
 
