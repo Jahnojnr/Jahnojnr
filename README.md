@@ -1,4 +1,5 @@
-![Black and White Simple Art Director LinkedIn Banner](https://github.com/user-attachments/assets/722ae5f1-17e1-4650-a882-01155053bba0)
+![Black and White Simple Art Director LinkedIn Banner](https://github.com/user-attachments/assets/b76ad0dc-0cd7-491d-beff-82fe4f1970df)
+
 
 <h1 align="center">Hi, I'm Jahno Paul</h1>
 <h3 align="center">Full-Stack Developer | Freelancer | SEO Specialist</h3>
