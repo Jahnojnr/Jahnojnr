@@ -1,5 +1,6 @@
 
-![Brown Minimalist LinkedIn Banner](https://github.com/user-attachments/assets/aa2ec609-2eba-4b7e-938a-5e291cba05ee)
+
+<img width="1584" height="396" alt="Black and White Simple Art Director LinkedIn Banner" src="https://github.com/user-attachments/assets/6a8435cd-5d2c-4a42-a55a-a4867f1a2e8f" />
 
 
 <h1 align="center">Hi, I'm Jahno Paul</h1>
