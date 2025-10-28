@@ -3,66 +3,61 @@
 <img width="1584" height="396" alt="Black and White Simple Art Director LinkedIn Banner" src="https://github.com/user-attachments/assets/6a8435cd-5d2c-4a42-a55a-a4867f1a2e8f" />
 
 
-<h1 align="center">Hi, I'm Jahno Paul</h1>
-<h3 align="center">Full-Stack Developer | Freelancer | SEO Specialist</h3>
-<p>
-    <a href="https://github.com/Jahnojnr"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-   <a href="https://github.com/Jahnojnr/graphs/contributors"><img src="https://img.shields.io/github/contributors/Jahnojnr/Jahnojnr?color=blue"></a>
-<a href="https://github.com/Jahnojnr/stargazers"><img src="https://img.shields.io/github/stars/Jahnojnr/Jahnojnr.svg?logo=github"></a>
-   <a href="https://github.com/Jahnojnr/network/members"><img src="https://img.shields.io/github/forks/Jahnojnr/Jahnojnr.svg?color=blue&logo=github"></a>
-   
+<h1 align="center">Jahno Paul - Developer | Educator | Strategist | Vision Builder</h1>
+<h3 align="center">Software & Blockchain Developer | UI/UX Designer | Tech Educator</h3>
+
+<p align="center">
+  <a href="https://github.com/Jahnojnr"><img src="https://img.shields.io/badge/status-active-brightgreen.svg"></a>
+  <a href="https://github.com/Jahnojnr/graphs/contributors"><img src="https://img.shields.io/github/contributors/Jahnojnr/Jahnojnr?color=blue"></a>
+  <a href="https://github.com/Jahnojnr/stargazers"><img src="https://img.shields.io/github/stars/Jahnojnr/Jahnojnr.svg?logo=github"></a>
+  <a href="https://github.com/Jahnojnr/network/members"><img src="https://img.shields.io/github/forks/Jahnojnr/Jahnojnr.svg?color=blue&logo=github"></a>
 </p>
 
-<img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif">
+<img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahnojnr&label=Profile%20views&color=0e75b6&style=flat" alt="jahnojnr" /> </p>
 
-<p align="left">
-  <a href="https://twitter.com/jahnopaul" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/jahnopaul?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-  </a>
-</p>
+### About Me
 
-### 🚀 About Me  
-- 🔭 Currently working on **[Mitaschool.com](https://mitaschool.com/)**  
-- 🌱 Learning **C++** to expand my programming skills  
-- 📝 Writing tech articles on **[Mitaschool Blog](https://mitaschool.com/blog/)**  
-- 💬 Ask me about **Web Development, PHP, Python, and SEO**  
-- 📫 Reach me at **jahnopaul00@gmail.com**  
-- ⚡ Fun fact: **I solve problems with both code and humor!**  
+Technology didn’t just change my life, it gave me purpose.  
+It transformed how I think, create, and connect with people. Today, that same transformation defines my mission: to build, teach, and inspire others through technology.
 
----
-<br/>
+I’m **Jahno Paul**, a **Software and Blockchain Developer**, **UI/UX Designer**, and **Tech Educator** from Akwa Ibom, Nigeria.  
+My journey began at **MitaSchool**, where I started as a student, grew into a **Full-Stack Tutor**, advanced to **Head of Staff and Tutors Coordinator**, and now serve as a **Mentor and Business Strategist**, helping young minds evolve from curiosity to mastery.
 
-<h3 align="center">Full-Stack Developer | Tech Educator | Freelancer</h3>
-<br/>
-
-🚀 Hi, I’m Jahno Paul! A passionate full-stack developer, tech mentor, and freelancer with expertise in crafting scalable web solutions, mentoring aspiring developers, and driving innovation in the digital space. A self-taught developer, I’ve spent countless hours mastering skills in programming, web development, AI/ML, and automation. My technical expertise spans **Python**, **JavaScript**, **PHP**, **HTML**, **CSS**, **React**, and **Node.js**, among other tools and frameworks. I thrive on tackling complex challenges, whether it’s building bots like the **Social Media Search Bot**, **Telegram Channel Copier Bot**, or **LinkedIn Job Search Bot**, or managing impactful projects like **Awabills**, a subscription management app. 
-<br>
-
-💡 What I Do
-<br>
-🔹 Lead Instructor & Head of Staff at Mita School, where I train the next generation of developers and oversee tech projects.<br>
-🔹 Founder of Jahno Dev, a digital agency specializing in custom web solutions, automation, and UI/UX design.<br>
-🔹 Freelancer & Consultant, offering services in web development, SEO, and branding for businesses and startups.<br>
-<br>
-
-🔥 Projects & Experience
-<br>
-💻 Developed a dynamic e-commerce marketplace (HERIGLOB) with seamless vendor integration.<br>
-🤖 Built automation tools like the Social Media Search Bot and LinkedIn Job Scraper.<br>
-🎓 Mentored dozens of students in PHP, Laravel, and MySQL at Mita School.<br>
-
-💬 Let’s Connect!
-<br>
-📩 Email: jahnopaul00@gmail.com<br>
-🐦 Twitter: @jahnopaul<br>
-💼 LinkedIn: Jahno Paul<br>
-
-⚡ Fun Fact: I’m a competitive gamer on COD Mobile 🎮 and a huge football enthusiast!
+I believe technology is more than code or design — it’s a bridge between imagination and impact.  
+My focus is on building solutions, teaching others to build, and guiding businesses toward innovation, structure, and digital transformation.
 
 
+### Professional Experience
 
+At **Techmita**, I serve as a **Web Developer**, designing and developing high-performing websites and applications that turn ideas into scalable digital products.  
+Over time, I’ve collaborated with startups, organizations, and institutions to deliver **clean, user-centered, and result-driven solutions**.
+
+Beyond client work, I actively participate in **global hackathons**, building blockchain-based projects across **Cardano**, **Solana**, **Avalanche**, and **ICP** networks.  
+These experiences continuously refine my technical depth, creativity, and ability to solve problems across diverse ecosystems.
+
+At **MitaSchool** and **Techmita**, I contribute to systems that empower learning and innovation — from curriculum design and digital strategy to brand development and team growth.  
+Every project and student I mentor reinforces one truth: progress isn’t about perfection; it’s about consistent growth.
+
+
+### Areas of Expertise
+
+**Web Development**  Scalable, secure, and high-performance platforms built for impact.  
+**App Development**  Mobile and web applications focused on usability and growth.  
+**UI/UX Design** Intuitive and user-centered experiences that drive results.  
+**Blockchain Development**  Smart contracts and decentralized applications across leading networks.  
+**SEO & Brand Strategy**  Enhancing visibility, authority, and business growth online.
+
+
+### Vision & Purpose
+
+I am evolving into a business leader focused on **strategic growth**, **brand development**, and **client success** — with a long-term goal of building a **freelancing ecosystem** where creativity meets opportunity.
+
+My purpose is simple:  
+To inspire, to build, and to leave proof that learning and growth can change lives - because they changed mine.
+
+I am actively building two forward-looking ventures: Kashbit and Nexework. Kashbit is a digital platform designed to deliver fintech-driven solutions: enabling seamless payments, bridging traditional finance with Web3 capabilities, and empowering underserved users to access financial infrastructure. Nexework is structured as a strategic ecosystem for creators and professionals: a hybrid network combining enterprise-grade tools, blockchain-powered collaboration, and community growth mechanisms for the future of work and value creation. Through these initiatives, I aim to architect infrastructure where technology meets purpose, enabling businesses and individuals to flourish in both Web2 and Web3 domains.
 
 ## 🔎 You can find me on:
 <a href="mailto:jahnopaul00@gmail.com">
