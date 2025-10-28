@@ -118,25 +118,44 @@ I am actively building two forward-looking ventures: Kashbit and Nexework. Kashb
 
 ---
 
+
 ### 📊 GitHub Stats  
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jahnojnr&show_icons=true&locale=en" alt="jahnojnr" />
-</p>
-
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jahnojnr&show_icons=true&locale=en&layout=compact" alt="jahnojnr" />
-</p>
-
-<p align="left">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jahnojnr&" alt="jahnojnr" />
-</p>
-
-<!-- <h3 align="center">Now Playing on Spotify</h3>
 <p align="center">
-  <a href="https://open.spotify.com/user/312tzu7o7ssoz7uitpqv26wec3xa">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=312tzu7o7ssoz7uitpqv26wec3xa&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" alt="Now Playing on Spotify" />
-  </a>
-</p> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=jahnojnr&show_icons=true&locale=en" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jahnojnr&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="165" />
+  <!-- <img src="https://streak-stats.demolab.com?user=jahnojnr&theme=default" alt="GitHub Streak" height="165" /> -->
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jahnojnr&" alt="jahnojnr" /> 
+</p>
+
+
+
+
+
+<!-- <h2 align="center"> Figma Design Showcase</h2>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.figma.com/file/abcd1234/Gourmet-Hub" target="_blank">
+        <img src="https://github.com/YourUsername/YourRepo/assets/12345678/gourmethub.png" width="280" style="border-radius: 10px;"/>
+        <br><b>Gourmet Hub – Food Recipe UI</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.figma.com/file/efgh5678/HERIGLOB" target="_blank">
+        <img src="https://github.com/YourUsername/YourRepo/assets/12345678/heriglob.png" width="280" style="border-radius: 10px;"/>
+        <br><b>HERIGLOB – E-commerce Platform</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.figma.com/file/ijkl9012/Yuhang-Tech" target="_blank">
+        <img src="https://github.com/YourUsername/YourRepo/assets/12345678/yuhangtech.png" width="280" style="border-radius: 10px;"/>
+        <br><b>Yuhang Tech – Crypto Dashboard</b>
+      </a>
+    </td>
+  </tr>
+</table> -->
+
 
 
 
