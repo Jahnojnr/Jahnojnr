@@ -130,6 +130,16 @@ I am actively building two forward-looking ventures: Kashbit and Nexework. Kashb
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jahnojnr&" alt="jahnojnr" />
 </p>
 
+<!-- <h3 align="center">Now Playing on Spotify</h3>
+<p align="center">
+  <a href="https://open.spotify.com/user/312tzu7o7ssoz7uitpqv26wec3xa">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=312tzu7o7ssoz7uitpqv26wec3xa&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" alt="Now Playing on Spotify" />
+  </a>
+</p> -->
+
+
+
+
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=jahnojnr/jahnojnr,jahnojnr/Vitour---Travel-Tour-Booking-HTML-Template&type=Timeline)](https://star-history.com/#jahnojnr/jahnojnr&jahnojnr/Vitour---Travel-Tour-Booking-HTML-Template&Timeline)
