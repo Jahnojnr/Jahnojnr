@@ -23,7 +23,8 @@ Technology didn’t just change my life, it gave me purpose.
 It transformed how I think, create, and connect with people. Today, that same transformation defines my mission: to build, teach, and inspire others through technology.
 
 I’m **Jahno Paul**, a **Software and Blockchain Developer**, **UI/UX Designer**, and **Tech Educator** from Akwa Ibom, Nigeria.  
-My journey began at <a href="https://mitaschool.com/">Mitaschool</a>, where I started as a student, grew into a **Full-Stack Tutor**, advanced to **Head of Staff and Tutors Coordinator**, and now serve as a **Mentor and Business Strategist**, helping young minds evolve from curiosity to mastery.
+My journey began at <a href="https://mitaschool.com/" style="color: #e63946; text-decoration: none;">Mitaschool</a>
+, where I started as a student, grew into a **Full-Stack Tutor**, advanced to **Head of Staff and Tutors Coordinator**, and now serve as a **Mentor and Business Strategist**, helping young minds evolve from curiosity to mastery.
 
 I believe technology is more than code or design — it’s a bridge between imagination and impact.  
 My focus is on building solutions, teaching others to build, and guiding businesses toward innovation, structure, and digital transformation.
