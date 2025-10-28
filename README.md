@@ -128,33 +128,33 @@ I am actively building two forward-looking ventures: Kashbit and Nexework. Kashb
 </p>
 
 
-
-
-
-<!-- <h2 align="center"> Figma Design Showcase</h2>
+<h2 align="center">Figma Design Showcase</h2>
 
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://www.figma.com/file/abcd1234/Gourmet-Hub" target="_blank">
-        <img src="https://github.com/YourUsername/YourRepo/assets/12345678/gourmethub.png" width="280" style="border-radius: 10px;"/>
-        <br><b>Gourmet Hub – Food Recipe UI</b>
+      <a href="https://www.figma.com/proto/sbxzGuhQgfowhMlkLoTqXf/AI-Startup-Website-UI-Kit-%E2%80%94-Framer-Website-Kit--Community-?node-id=1-2&t=Bg2IPvOotYQPcE1p-1" target="_blank">
+        <img src="https://github.com/user-attachments/assets/b774f739-8421-44fd-89f9-34536146ae3f" alt="AI Space" width="280" style="border-radius:10px;" />
+        <br><strong>AI Space</strong>
       </a>
     </td>
     <td align="center">
-      <a href="https://www.figma.com/file/efgh5678/HERIGLOB" target="_blank">
-        <img src="https://github.com/YourUsername/YourRepo/assets/12345678/heriglob.png" width="280" style="border-radius: 10px;"/>
-        <br><b>HERIGLOB – E-commerce Platform</b>
+      <a href="https://www.figma.com/proto/TDLrVgWnj1sMXq2SXkqHjZ/Full-E-Commerce-Website-UI-UX-Design--Community-?node-id=1-3&t=Bg2IPvOotYQPcE1p-1" target="_blank">
+        <img src="https://github.com/user-attachments/assets/fe318e09-5bf5-4209-a6f2-aae34ccede07" alt="E-commerce Platform" width="280" style="border-radius:10px;" />
+        <br><strong>E-commerce Platform</strong>
       </a>
     </td>
     <td align="center">
       <a href="https://www.figma.com/file/ijkl9012/Yuhang-Tech" target="_blank">
-        <img src="https://github.com/YourUsername/YourRepo/assets/12345678/yuhangtech.png" width="280" style="border-radius: 10px;"/>
-        <br><b>Yuhang Tech – Crypto Dashboard</b>
+        <br><strong>Yuhang Tech – Crypto Dashboard</strong>
       </a>
     </td>
   </tr>
-</table> -->
+</table>
+
+
+
+ 
 
 
 
